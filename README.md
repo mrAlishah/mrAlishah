@@ -63,7 +63,7 @@ I am a **Golang Developer**. &nbsp;&nbsp; <img src="https://media.giphy.com/medi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrAlishah&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ido's github stats](https://github-readme-stats.vercel.app/api?username=mrAlishah?them=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ido's github stats](https://github-readme-stats.vercel.app/api?username=mrAlishah?theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## </div>
 
