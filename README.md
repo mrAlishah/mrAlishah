@@ -1,4 +1,3 @@
-
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/mostafaـalishah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -6,12 +5,10 @@
 <a href="https://t.me/mrAlishah_4F"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 </p>
 
+[//]: # '<p align="center">'
+[//]: # '<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>'
+[//]: # "</p>"
 
-[//]: # (<p align="center">)
-
-[//]: # (<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>)
-
-[//]: # (</p>)
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mrAlishah&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
@@ -20,17 +17,17 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a **Golang Developer**. &nbsp;&nbsp;   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a **Golang Developer**. &nbsp;&nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m working as a Software Engineer and have more experiences about webRTC,Web Application, Video Streaming. 
+- 🔭 I’m working as a Software Engineer and have more experiences about webRTC,Web Application, Video Streaming.
 - 🌱 Being worked for the different project helped me to adapt to the changes quickly and made me a mature team worker. .
 - ⚡ In my free time I read tech articles because of **LEarn -> Earn**, :biking_man: walking talking :walking_man: :lotus_position_man:, chit chat in some communities :nerd_face:.
-- 📫 Let's keep in touch.: &nbsp; 
+- 📫 Let's keep in touch.: &nbsp;
 
- [![Linkedin Badge](https://img.shields.io/badge/-Mostafa_Alishah-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mostafaـalishah)
- ![Gmail Badge](https://img.shields.io/badge/-mrAlishahCo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)
- [![Telegram Badge](https://img.shields.io/badge/-mrAlishah-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mrAlishah_4F)
- [![Discord Badge](https://img.shields.io/badge/-mrAlishah-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/mrAlishah#1391)
+[![Linkedin Badge](https://img.shields.io/badge/-Mostafa_Alishah-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mostafaـalishah)
+![Gmail Badge](https://img.shields.io/badge/-mrAlishahCo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)
+[![Telegram Badge](https://img.shields.io/badge/-mrAlishah-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mrAlishah_4F)
+[![Discord Badge](https://img.shields.io/badge/-mrAlishah-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/mrAlishah#1391)
 
 ---
 
@@ -59,17 +56,19 @@ I am a **Golang Developer**. &nbsp;&nbsp;   <img src="https://media.giphy.com/me
 ---
 
 ### 🔥 &nbsp; My Stats :
+
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrAlishah&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrAlishah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
----
+[![Ido's github stats](https://github-readme-stats.vercel.app/api?username=mrAlishah)](https://github.com/anuraghazra/github-readme-stats)
 
-### ✍️ Blog Posts : 
+## </div>
+
+### ✍️ Blog Posts :
+
 - [Introducing microservices](https://github.com/mrAlishah/golangTraining/blob/main/Net/http/02-building_microservices_Nic_Jackson/01-Introduction_to_Microservices/readme.md)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
