@@ -70,6 +70,8 @@ I am a **Golang Developer**. &nbsp;&nbsp; <img src="https://media.giphy.com/medi
 ### ✍️ Blog Posts :
 
 - [Go:Introducing microservices](https://github.com/mrAlishah/golangTraining/blob/main/Net/http/02-building_microservices_Nic_Jackson/01-Introduction_to_Microservices/readme.md)
-- [GO:Pointers vs. values in parameters and return values](https://github.com/mrAlishah/golangTraining/tree/main/Array_Slice/09-SlicePointer)
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [Go:Pointers vs. values in parameters and return values](https://github.com/mrAlishah/golangTraining/tree/main/Array_Slice/09-SlicePointer)
+
+[//]: # (  <!-- BLOG-POST-LIST:START -->)
+
+[//]: # (  <!-- BLOG-POST-LIST:END -->)
