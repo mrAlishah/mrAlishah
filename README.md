@@ -63,7 +63,7 @@ I am a **Golang Developer**. &nbsp;&nbsp; <img src="https://media.giphy.com/medi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrAlishah&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ido's github stats](https://github-readme-stats.vercel.app/api?username=mrAlishah&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Ido's github stats](https://github-readme-stats.vercel.app/api?username=mrAlishah&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## </div>
 
@@ -72,7 +72,7 @@ I am a **Golang Developer**. &nbsp;&nbsp; <img src="https://media.giphy.com/medi
 - [Go:Introducing microservices](https://github.com/mrAlishah/golangTraining/blob/main/Net/http/02-building_microservices_Nic_Jackson/01-Introduction_to_Microservices/readme.md)
 - [Go:Pointers vs values in parameters and return values](https://github.com/mrAlishah/golangTraining/tree/main/Array_Slice/09-SlicePointer)
 - [Go:Introduction of testing](https://github.com/mrAlishah/golangTraining/tree/main/Net/http/02-building_microservices_Nic_Jackson/04-Testing)
+- [Go:Event processing/Microservice common pattern](https://github.com/mrAlishah/golangTraining/blob/main/Net/http/02-building_microservices_Nic_Jackson/05-Common_Patterns/readme.md)
 
-[//]: # (  <!-- BLOG-POST-LIST:START -->)
-
-[//]: # (  <!-- BLOG-POST-LIST:END -->)
+[//]: # "  <!-- BLOG-POST-LIST:START -->"
+[//]: # "  <!-- BLOG-POST-LIST:END -->"
