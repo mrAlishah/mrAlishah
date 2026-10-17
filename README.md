@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/mostafaـalishah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="//discordapp.com/users/mrAlishah#1391"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
+<!--<a href="//discordapp.com/users/mrAlishah#1391"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>-->
 <a href="https://t.me/mrAlishah"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 </p>
 
@@ -25,9 +25,9 @@ I am a **Golang Developer**. &nbsp;&nbsp; <img src="https://media.giphy.com/medi
 - 📫 Let's keep in touch.: &nbsp;
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mostafa_Alishah-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mostafaـalishah)
-![Gmail Badge](https://img.shields.io/badge/-mrAlishahCo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)
+![Gmail Badge](https://img.shields.io/badge/-mrAlishPrg@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)
 [![Telegram Badge](https://img.shields.io/badge/-mrAlishah-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mrAlishah)
-[![Discord Badge](https://img.shields.io/badge/-mrAlishah-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/mrAlishah#1391)
+<!--[![Discord Badge](https://img.shields.io/badge/-mrAlishah-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/mrAlishah#1391)-->
 
 ---
 
